@@ -1,4 +1,4 @@
-### Desafio da Rocketseat: fazer um quiz usando HTML5.
+### Desafio da Rocketseat: fazer um quiz usando HTML.
 
 Quiz é um jogo de perguntas e respostas. Uma forma simples de criar um quiz, é adicionando um formulário, e usar a lista ordenada para criar as perguntas e inputs do tipo radio para as opções de respostas. Podemos criar uma lista ordenada (`ol`) para fazer a lista de perguntas e respostas.
 
